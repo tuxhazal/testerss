@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q4ja76n+/xU=",
+  "success": true,
+  "projectFilePath": "/home/hazal/aetherxss/AetherXSS.csproj",
+  "expectedPackageFiles": [
+    "/home/hazal/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/hazal/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.3/microsoft.aspnetcore.app.ref.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
